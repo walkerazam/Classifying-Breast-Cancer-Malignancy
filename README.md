@@ -4,10 +4,15 @@
 ## Repo Information:
 This repository contains:
 
+[Code Directory]:
+
 1. The main Python Notebook used to run and develop code
-2. The Final Report
-3. Data File for the Code
-4. Images Used in the Final Reports
+2. Data File for the Code as a CSV
+3. PDF report of Python Notebook
+
+[Final Report]:
+1. Final Report and Findings
+2. Images Used in the Final Reports
 
 ## Project Information:
 One of the largest threats that cancer poses is through its ability to metastasize. Cancer metastasis is the ability for cancer to spread to other parts of the body – where a benign classification indicates no spread, and malignant indicates cancer metastasis. Accurate pre-emptive prediction of malignancy could be highly beneficial to treatment plans.
